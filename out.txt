@@ -1,0 +1,39 @@
+name: ce_automation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2020.12.5=h033912b_0
+  - certifi=2020.12.5=py38h50d1736_1
+  - cyrus-sasl=2.1.27=h260dd49_1
+  - icu=68.1=h74dc148_0
+  - krb5=1.17.2=h60d9502_0
+  - libcxx=11.1.0=habf9029_0
+  - libedit=3.1.20191231=h0678c8f_2
+  - libevent=2.1.10=hddc9c9b_3
+  - libffi=3.2.1=hb1e8313_1007
+  - libntlm=1.4=h35c211d_1002
+  - libprotobuf=3.15.6=hcf210ce_0
+  - lz4-c=1.9.3=h046ec9c_0
+  - macports-legacy-support=0.13=h35c211d_0
+  - mysql=8.0.23=h694c41f_1
+  - mysql-client=8.0.23=h64bfe91_1
+  - mysql-common=8.0.23=h694c41f_1
+  - mysql-devel=8.0.23=h694c41f_1
+  - mysql-libs=8.0.23=hbeb7981_1
+  - mysql-server=8.0.23=hf6bb879_1
+  - ncurses=6.2=h2e338ed_4
+  - openssl=1.1.1j=hbcf498f_0
+  - pip=21.0.1=pyhd8ed1ab_0
+  - python=3.8.0=hd366da7_5
+  - python_abi=3.8=1_cp38
+  - readline=8.1=h05e3726_0
+  - setuptools=49.6.0=py38h50d1736_3
+  - sqlite=3.35.2=h44b9ce1_0
+  - tk=8.6.10=h0419947_1
+  - wheel=0.36.2=pyhd3deb0d_0
+  - xz=5.2.5=haf1e3a3_1
+  - zlib=1.2.11=h7795811_1010
+  - zstd=1.4.9=h582d3a0_0
+prefix: /Users/admin/miniconda3/envs/ce_automation
+
